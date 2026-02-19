@@ -6,6 +6,7 @@ command = "hugo --gc --minify -c ./content/posts"
 HUGO_VERSION = "0.82.1"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
+NODE_VERSION = "22"
 
 [context.split1]
 command = "hugo --gc --minify --enableGitInfo -c ./content/posts"
@@ -13,18 +14,21 @@ command = "hugo --gc --minify --enableGitInfo -c ./content/posts"
 [context.split1.environment]
 HUGO_VERSION = "0.82.1"
 HUGO_ENV = "production"
+NODE_VERSION = "22"
 
 [context.deploy-preview]
 command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL -c ./content/posts"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.82.1"
+NODE_VERSION = "22"
 
 [context.branch-deploy]
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL -c ./content/posts"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.82.1"
+NODE_VERSION = "22"
 
 [context.next.environment]
 HUGO_ENABLEGITINFO = "true"
