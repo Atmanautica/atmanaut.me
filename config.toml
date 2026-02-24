@@ -25,6 +25,7 @@ metaDataFormat = 'yaml'
 
 [author]
   name = 'Kerry Snyder'
+  email = 'kerry@atmanaut.me'
 
 [outputs]
   home = ['html', 'json', 'rss']
