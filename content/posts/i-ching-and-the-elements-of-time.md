@@ -1,21 +1,3 @@
----
-author: Kerrbear
-categories: []
-date: 2019-03-22T16:48:00.000-05:00
-tags:
-  - Non-Occidental
-  - spacetime
-  - buddy system
-  - cleromancy
-  - i ching
-  - divination
-title: I Ching and the Elements of Time
-title_sub: A peek at the Book of Changes
-title_lead: A headlong dive into the divine
-title_main: I Ching and the Elements of Time
-published: true
----
-
 This week was riddled with coincidence. I'll not bore you with the details. Like so many dreams told or acid trips recounted, the meaning is already lost even on me.
 
 You see, I have begun listening to Terence McKenna, that whirring dynamo of timewaves and historical embellishment through lateral induction. Initially I resisted his rather grating nasal tones. (I wasn't ready for the message, and I doubt if anyone is ever truly ready to encounter Terence McKenna.)<!--more--> Timeless gratitude to those who record and publish the wanderings of the scrying minds of yesteryear to YouTube and otherwise. The recordings of McKenna, Alan Watts, and Joseph Campbell lie in wait, bobbing in a seemingly bottomless well of wisdom, insight, and wonderment freely available to all of us. It wasn't always this way. We used to have to learn Sanskrit and Mandarin, spend a decade in the Amazon, and decipher cuneiform and hieroglyphics to gain understanding of such magnitude and profundity. It's no wonder few did.
@@ -106,3 +88,22 @@ To select one of 64 permutations with equal probability, we could flip six coins
 These days the only coins I carry are Bitcoins, so I keep my oracle with them as an app on my homescreen. [Nameless](https://nameless.quest) is also a fully functional progressive web app, so if you save it to your home screen, it's available offline, yours to keep.
 
 I wish you the best of luck. May the oracle shine favor upon you.
+
+---
+author: Kerrbear
+categories: []
+date: 2019-03-22T16:48:00Z-05:00
+tags:
+  - Non-Occidental
+  - spacetime
+  - buddy system
+  - cleromancy
+  - i ching
+  - divination
+title: I Ching and the Elements of Time
+title_sub: A peek at the Book of Changes
+title_lead: A headlong dive into the divine
+title_main: I Ching and the Elements of Time
+published: true
+---
+

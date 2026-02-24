@@ -17,7 +17,7 @@
     "dev": "yarn serve",
     "lint": "eslint --fix",
     "preview": "hugo -EFDb $DEPLOY_URL -d public",
-    "release": "yarn build && ntl --prod",
+    "release": "yarn build && ntl deploy --prod",
     "serve": "hugo serve -wF --port 4481 --cleanDestinationDir --navigateToChanged",
     "start": "hugo serve -wD"
   }

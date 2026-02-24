@@ -1,12 +1,8 @@
 languageCode = 'en-us'
 title = 'Atmanautica'
 baseUrl = 'https://atmanaut.me'
-themesDir = '..'
+theme = 'chakra'
 metaDataFormat = 'yaml'
-
-[module.imports]
-	path = 'github.com/krry/chakra-hugo-theme'
-	# site theme
 
 [params]
   description = 'A place for explorers of the spirit we share, being knowing enjoying'
