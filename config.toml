@@ -6,7 +6,6 @@ metaDataFormat = 'yaml'
 
 [params]
   description = 'A place for explorers of the spirit we share, being knowing enjoying'
-  author = 'Kerry Snyder'
   github = 'https://github.com/krry'
   facebook = 'https://facebook.com/atmanaut'
   og_image = 'https://og.easeness.biz/Atmanautica.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fatmanaut.sirv.com%2Flogos%2Fbloobicon.svg'
