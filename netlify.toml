@@ -6,18 +6,18 @@ command = "hugo --gc --minify -c ./content/posts"
 HUGO_VERSION = "0.120.0"
 HUGO_ENV = "production"
 HUGO_ENABLEGITINFO = "true"
-NODE_VERSION = "22"
+NODE_VERSION = "25"
 
 [context.deploy-preview]
 command = "hugo --gc --minify --buildFuture -b $DEPLOY_PRIME_URL -c ./content/posts"
 
 [context.deploy-preview.environment]
 HUGO_VERSION = "0.120.0"
-NODE_VERSION = "22"
+NODE_VERSION = "25"
 
 [context.branch-deploy]
 command = "hugo --gc --minify -b $DEPLOY_PRIME_URL -c ./content/posts"
 
 [context.branch-deploy.environment]
 HUGO_VERSION = "0.120.0"
-NODE_VERSION = "22"
+NODE_VERSION = "25"
