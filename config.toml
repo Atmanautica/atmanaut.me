@@ -1,13 +1,13 @@
 languageCode = 'en-us'
 title = 'Atmanautica'
-baseUrl = 'https://atmanaut.me'
+baseUrl = 'https://atmanaut.kerry.ink'
 theme = 'chakra'
 metaDataFormat = 'yaml'
 
 [params]
   description = 'A place for explorers of the spirit we share, being knowing enjoying'
   github = 'https://github.com/krry'
-  facebook = 'https://facebook.com/atmanaut'
+  facebook = 'https://facebook.com/kerryourself'
   og_image = 'https://og.easeness.biz/Atmanautica.png?theme=dark&md=1&fontSize=100px&images=https%3A%2F%2Fatmanaut.sirv.com%2Flogos%2Fbloobicon.svg'
   sitename = 'Atmanautica'
   twitter = '@kerryourself'
@@ -24,7 +24,7 @@ metaDataFormat = 'yaml'
 
 [author]
   name = 'Kerry Snyder'
-  email = 'krry.dev@gmail.com'
+  email = 'kerryourself@gmail.com'
 
 [outputs]
   home = ['html', 'json', 'rss']
